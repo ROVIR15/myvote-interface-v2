@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1349.016" height="253.03" viewBox="0 0 1349.016 253.03">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.544" y2="1.495" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4fddf8"/>
+      <stop offset="0.364" stop-color="#65e1f9"/>
+      <stop offset="0.469" stop-color="#79e5fa"/>
+      <stop offset="0.636" stop-color="#83e7fa"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" y2="-0.442" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0160c9"/>
+      <stop offset="0.339" stop-color="#3983d5"/>
+      <stop offset="0.527" stop-color="#5091da"/>
+      <stop offset="0.724" stop-color="#71a6e1"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_243" data-name="Group 243" transform="translate(0 -515)">
+    <path id="Path_3539" data-name="Path 3539" d="M1365-873.046s14.583,38.39,72.471,71.646c26.745,15.365,86.9,2.585,115.9,33.179,91.5,96.51,207.954,10.565,242.266-16.458,14.57-11.475,52.248-49.249,104.119-61.063,32.646-7.435,90.966-19.382,144.031-18.008,37.357.968,55.328,9.486,111.348,18.008,33.633,5.116,64.369,11.646,84.482,19.615,175.374,69.487,191.826,66.4,264.264-10.808S2714-895.614,2714-895.614l-.253,199.425-1348.285.219Z" transform="translate(-1365 1464)" fill="url(#linear-gradient)"/>
+    <path id="Path_3540" data-name="Path 3540" d="M1365-695c2.341-3,43.338-121.8,139.107-148.42,41.7-11.592,144.245-1.589,208.237,24.33,25.859,10.474,101.162,48.732,144.03,52.984,66.559,6.6,104.953-24.4,144.37-25.12,94.1-1.715,140.225,79.98,207.415,74.86,32.729-2.494-14.365,12.481-14.365,12.481s84.392-177.38,216.542-115.2c28.677,13.492,110.939,78.009,141.439,74.059,38.131-4.938,65.777-27.606,90.53-55.985,30.236-34.665,52.052-119.989,63.188-144.577,5.333-11.774,8.014,23.477,8.014,23.477l.508,227.132Z" transform="translate(-1365 1463)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
